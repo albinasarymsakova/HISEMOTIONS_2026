@@ -7,9 +7,11 @@
 
 ### 📢 **Important Notice on Datasets Access**
 
+**March 26, 2026 – Test Dataset published**  
 **March 11, 2026 – Training Dataset published**  
 **February 12, 2026 – Validation Dataset published**
 
+ **To download the test datasets, please visit [Test Dataset Page](test/).**  
  **To download the training datasets, please visit [Training Dataset Page](train/).**  
  **To download the validation datasets, please visit [Validation Dataset Page](dev/).**  
  
@@ -148,7 +150,7 @@ Submissions will be evaluated against hidden gold human-annotated labels, and th
 •	Task announcement: **February 9**, 2026.  
 •	Release of [development corpus](dev/): **February 12**, 2026.  
 •	Release of [training corpus](train/): **March 11**, 2026.  
-•	Release of test corpus and start of evaluation campaign: March 27, 2026.  
+•	Release of [test corpus](test/) and start of evaluation campaign: **March 26**, 2026.  
 •	End of evaluation campaign (deadline for runs submission): April 30, 2026.  
 •	Publication of official results: May 4, 2026.  
 •	Paper submission: May 20, 2026.  
