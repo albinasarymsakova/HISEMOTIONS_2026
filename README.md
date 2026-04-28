@@ -63,8 +63,8 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
       <div class="card-row"><span class="label">Template: </span><span class="value"><a href="https://ceur-ws.org/Vol-XXX/CEURART.zip">https://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX only)</span></div>
       <div class="card-row"><span class="label">Language: </span><span class="value">English</span></div>
       <div class="card-row"><span class="label">Pages: </span><span class="value">5 pages minimum, no maximum</span></div>
-      <div class="card-row"><span class="label">Submission deadline: </span><span class="value"><span class="badge badge-warn">May 20, 2026</span></span></div>
-      <div class="card-row"><span class="label">Camera-ready deadline: </span><span class="value"><span class="badge badge-info">July 1, 2026</span></span></div>
+      <div class="card-row"><span class="label">Submission deadline: </span><span class="value"><span class="badge badge-warn"><strong>May 20, 2026</strong></span></span></div>
+      <div class="card-row"><span class="label">Camera-ready deadline: </span><span class="value"><span class="badge badge-info"><strong>July 1, 2026</strong></span></span></div>
     </div>
   </div>
 
@@ -83,7 +83,7 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
         <li>The footer of the first page should look like the following one, but showing the authors of the working notes:</li>
 
 <p align="center" style="overflow: hidden; height: 200px; width: 300px; position: relative;">
-  <img align="center" src="" style="position: absolute; bottom: -50px; width: 80%;" />
+  <img align="center" src="footer.jpg" style="position: absolute; bottom: -50px; width: 80%;" />
 </p>
         <li>Eliminate the numbering in the pages of the paper, if there is one, and make sure that there are no headers. On the first page, only the mandatory copyright is allowed as a footnote.</li>
         <li>Authors should be described with their name and their full affiliation (university and country). Names must be complete (no initials), e.g. "María García" instead of "M. García".</li>
@@ -95,7 +95,38 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
   </div>
 
   <hr class="divider">
+<div class="section">
+    <p class="section-title">Copyright agreement</p>
+    <div class="card">
+      <ul class="rule-list">
+        <li><strong><a href="https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12">AUTHOR-AGREEMENT (NTP)</strong> — use if no copyrighted third-party material is included (most cases).</li>
+        <li><strong><a href="https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12">AUTHOR-AGREEMENT (TP)</strong> — use if copyrighted third-party material is included; attach the third-party permission.</li>
+        <li>At least one author of each paper must sign the CEUR copyright agreement. The signed form must be sent along with the paper to the task organizers. <strong>Important: it must be physically signed with blue pen on paper.</strong> These are the two agreement variants, select the one that fits your case.</li>
+        <li>In the field Name and Year of the event of the CEUR agreement should be written: IberLEF 2026. </li>  
+        <li>Editors of the proceedings (editors), <strong>the following names must appear</strong>: Alba Bonet-Jover, José Ángel Gónzalez-Barba, Luis Chiruzzo, Alejandro Piad Morffis, Hugo Jair Escalante, Iker de la Iglesia, Albina Sarymsakova, Fazlourrahman Balouchzahi, Alba María Mármol Romero, Horacio Saggion, Tania Gisela Alcántara Medina, Ansel Yoan Rodríguez González, María Victoria Cantero Romero, Tomás Bernal-Beltrán, Álvaro Rodrigo, Miguel Ángel Álvarez Carmona, Vicent Ahuir, Luis Israel Ramos Pérez, Niels Martínez Guevara</li>
+      </ul>
+    </div>
+  </div>
 
+  <hr class="divider">
+
+  <div class="section">
+    <p class="section-title">Required citations</p>
+    <div class="card">
+      <p style="font-size: 14px; margin: 0 0 0.75rem;">All system description papers must cite the task overview <strong>(reference to be provided for camera-ready for HISEMOTIONS)</strong> and the general IberLEF 2026 overview:</p>
+<p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>APA: </strong>Alba Bonet-Jover, González-Barba, J. A., Chiruzzo, L. (2026). In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2026), co-located with the 42nd Conference of the Spanish Society for Natural Language Processing (SEPLN 2026), CEUR-WS.org</p>
+<p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>Bibtex:</strong></p>
+<code>@inproceedings{iberlef2026overview,
+  title={{Overview of IberLEF 2026: Natural Language Processing Challenges for Spanish and other Iberian Languages}},
+  author={Bonet-Jover, Alba and Gonz{\'a}lez-Barba, Jos{\'e} {\'A}ngel and Chiruzzo, Luis},
+  booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2026), co-located with the 42nd Conference of the Spanish Society for Natural Language Processing (SEPLN 2026), CEUR-WS. org},
+  year={2026}
+}
+</code>
+    </div>
+  </div>
+  
+<hr class="divider">
 
 <div class="container">
 
@@ -104,7 +135,7 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
     <div class="submit-banner">
       <div>
         <div class="submit-banner-text">Working notes submission form</div>
-        <div class="submit-banner-sub">Deadline: May 20, 2026</div>
+        <div class="submit-banner-sub">Deadline: <strong>May 20, 2026<\strong></div>
       </div>
       <a class="submit-btn" href="https://docs.google.com/forms/d/1agWzeDjNSpkgAl7iddcGrb60X9Z8iKU-bGFxTIf72aQ/edit?ts=69dcd59a">Submit ↗</a>
     </div>
