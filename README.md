@@ -137,7 +137,7 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
         <div class="submit-banner-text">Working notes submission form</div>
         <div class="submit-banner-sub">Deadline: <strong>May 20, 2026<\strong></div>
       </div>
-      <a class="submit-btn" href="https://docs.google.com/forms/d/1agWzeDjNSpkgAl7iddcGrb60X9Z8iKU-bGFxTIf72aQ/edit?ts=69dcd59a">Submit ↗</a>
+      <a class="submit-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSc0iIwSjuMuNqN33UDLysH-MWpkApBEGgs4DfgSP_zI4EJkOw/viewform?usp=publish-editor">Submit ↗</a>
     </div>
   </div>
 <hr class="divider"> 
