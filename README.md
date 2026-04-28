@@ -23,6 +23,7 @@
 
 - [Description of the Task](#description-of-the-task)
   - [Overview](#overview)
+  - [Working Notes Submission](#working-notes-submission)
   - [Relevance and Novelty](#relevance-and-novelty)
   - [Challenges Involved](#challenges-involved)
   - [Methodological Aspects](#methodological-aspects)
@@ -50,6 +51,65 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
   
   The motivation for this shared task is to address the challenge that semantic shift (Hu, Amaral, & Kübler, 2022; Montanelli & Periti, 2023; Montes, Manrique-Gómez, & Manrique, 2024) poses for emotion detection in historical texts, given that the lexicons in this domain often exhibit substantial deviations between historical and modern affective meanings. This challenge underscores the need for robust methods that can capture and detect the complexity of affective states expressed in historical correspondence. Another motivation for this shared task is to investigate how large language models (LLMs) and language models (LMs) can contribute to TBED in the domain of historical correspondence, given their promising performance on similar tasks in social media contexts (Plaza del Arco et al., 2020).  </div> 
 
+### Working Notes Submission
+
+
+  <hr class="divider">
+
+  <div class="section">
+    <p class="section-title">Key dates & basics</p>
+    <div class="card">
+      <div class="card-row"><span class="label">Format: </span><span class="value">Uniform 1-column CEURART style</span></div>
+      <div class="card-row"><span class="label">Template: </span><span class="value"><a href="https://ceur-ws.org/Vol-XXX/CEURART.zip">https://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX only)</span></div>
+      <div class="card-row"><span class="label">Language: </span><span class="value">English</span></div>
+      <div class="card-row"><span class="label">Pages: </span><span class="value">5 pages minimum, no maximum</span></div>
+      <div class="card-row"><span class="label">Submission deadline: </span><span class="value"><span class="badge badge-warn">May 20, 2026</span></span></div>
+      <div class="card-row"><span class="label">Camera-ready deadline: </span><span class="value"><span class="badge badge-info">July 1, 2026</span></span></div>
+    </div>
+  </div>
+
+  <hr class="divider">
+  
+  <div class="section">
+    <p class="section-title">Full instructions</p>
+    <div class="card">
+      <ul class="rule-list">
+        <li>System description papers should be formatted according to the uniform 1-column CEURART style. LaTeX template can be found in: <a href="https://ceur-ws.org/Vol-XXX/CEURART.zip">https://ceur-ws.org/Vol-XXX/CEURART.zip</a></li>
+        <li>Notice CEUR also provides Word and ODT templates, but they are strongly discouraged to use by <a href="https://ceur-ws.org/HOWTOSUBMIT.html#CEURART">CEUR themselves</a>.</li>
+        <li>The minimum length of a regular paper should be 5 pages. There is no maximum page limit.</li>
+        <li>Papers must be written in English.</li>
+        <li>The copyright year command must be changed to <code>\copyrightyear{2026}</code>.</li>
+        <li>The conference command must be changed to <code>\conference{IberLEF 2026, September 2026, Le\'on, Spain}</code>.</li>
+        <li>The footer of the first page should look like the following one, but showing the authors of the working notes:</li>
+
+<p align="center" style="overflow: hidden; height: 200px; width: 300px; position: relative;">
+  <img align="center" src="" style="position: absolute; bottom: -50px; width: 80%;" />
+</p>
+        <li>Eliminate the numbering in the pages of the paper, if there is one, and make sure that there are no headers. On the first page, only the mandatory copyright is allowed as a footnote.</li>
+        <li>Authors should be described with their name and their full affiliation (university and country). Names must be complete (no initials), e.g. "María García" instead of "M. García".</li>
+        <li>Titles of papers should be in emphatic capital English notation, e.g. "Filling an Author Agreement by Autocompletion" rather than "Filling an author agreement by autocompletion".</li>
+        <li>The <strong>Declaration on Generative AI</strong> section is mandatory, and must be filled according to the use you have given to it in your paper.</li>
+        <li>At least one author of each paper must sign the CEUR copyright agreement. The signed form must be sent along with the paper to the task organizers. Important: it must be physically signed with blue pen on paper.</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+
+<div class="container">
+
+  <div class="section">
+    <p class="section-title">Submit your paper</p>
+    <div class="submit-banner">
+      <div>
+        <div class="submit-banner-text">Working notes submission form</div>
+        <div class="submit-banner-sub">Deadline: May 20, 2026</div>
+      </div>
+      <a class="submit-btn" href="https://docs.google.com/forms/d/1agWzeDjNSpkgAl7iddcGrb60X9Z8iKU-bGFxTIf72aQ/edit?ts=69dcd59a">Submit ↗</a>
+    </div>
+  </div>
+<hr class="divider"> 
 
 ### Relevance and Novelty
 
