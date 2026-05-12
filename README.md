@@ -113,7 +113,8 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
   <div class="section">
     <p class="section-title">Required citations</p>
     <div class="card">
-      <p style="font-size: 14px; margin: 0 0 0.75rem;">All system description papers must cite the task overview <strong>(reference to be provided for camera-ready for HISEMOTIONS)</strong> and the general IberLEF 2026 overview:</p>
+      <p style="font-size: 14px; margin: 0 0 0.75rem;">All system description papers must cite the task overview and the general IberLEF 2026 overview.</p>
+      <p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>General IberLEF 2026 overview citation:</strong></p>
 <p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>APA: </strong> Bonet-Jover, A., González-Barba, J. A., Chiruzzo, L. (2026). Overview of IberLEF 2026: Natural Language Processing Challenges for Spanish and other Iberian Languages. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2026), co-located with the 42nd Conference of the Spanish Society for Natural Language Processing (SEPLN 2026), CEUR-WS.org. </p>
 <p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>Bibtex:</strong></p>
 <code>@inproceedings{iberlef2026overview,
@@ -121,6 +122,18 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
   author={Bonet-Jover, Alba and Gonz{\'a}lez-Barba, Jos{\'e} {\'A}ngel and Chiruzzo, Luis},
   booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2026), co-located with the 42nd Conference of the Spanish Society for Natural Language Processing (SEPLN 2026), CEUR-WS. org},
   year={2026}
+}
+</code> 
+<br>
+<p style="font-size: 14px; margin: 0 0 0.75rem;"><strong> HISEMOTIONS task overview citation:</strong></p>
+<p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>APA: </strong> Sarymsakova, A., Martín-Rodilla, P., Martínez-Cámara, E., & Ureña-López, L. A. (2026). Overview of HISEMOTIONS at IberLEF 2026: Historical text-based emotion detection in early modern Spanish correspondence. <em>Procesamiento del Lenguaje Natural</em>, <em>77</em>. </p>
+<p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>Bibtex:</strong></p>
+<code>@article{HISEMOTIONS2026Overview,
+author={Sarymsakova, Albina and Martín-Rodilla, Patricia and Martínez-Cámara, Eugenio and  Ureña-López, Luis Alfonso}
+  title={Overview of HISEMOTIONS at IberLEF 2026: Historical Text-Based Emotion Detection in Early Modern Spanish Correspondence},
+  journal={Procesamiento del lenguaje natural},
+year={2026}
+  volume={77} 
 }
 </code>
     </div>
