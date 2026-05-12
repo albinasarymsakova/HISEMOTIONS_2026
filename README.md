@@ -129,10 +129,10 @@ To date, TBED has demonstrated promising algorithmic performance, particularly f
 <p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>APA: </strong> Sarymsakova, A., Martín-Rodilla, P., Martínez-Cámara, E., & Ureña-López, L. A. (2026). Overview of HISEMOTIONS at IberLEF 2026: Historical text-based emotion detection in early modern Spanish correspondence. <em>Procesamiento del Lenguaje Natural</em>, <em>77</em>. </p>
 <p style="font-size: 14px; margin: 0 0 0.75rem;"><strong>Bibtex:</strong></p>
 <code>@article{HISEMOTIONS2026Overview,
-author={Sarymsakova, Albina and Martín-Rodilla, Patricia and Martínez-Cámara, Eugenio and  Ureña-López, Luis Alfonso}
+author={Sarymsakova, Albina and Martín-Rodilla, Patricia and Martínez-Cámara, Eugenio and  Ureña-López, Luis Alfonso},
   title={Overview of HISEMOTIONS at IberLEF 2026: Historical Text-Based Emotion Detection in Early Modern Spanish Correspondence},
   journal={Procesamiento del lenguaje natural},
-year={2026}
+year={2026},
   volume={77} 
 }
 </code>
