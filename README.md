@@ -255,11 +255,11 @@ Submissions will be evaluated against hidden gold human-annotated labels, and th
 •	Release of [development corpus](dev/): **February 12**, 2026.  
 •	Release of [training corpus](train/): **March 11**, 2026.  
 •	Release of [test corpus](test/) and start of evaluation campaign: **March 26**, 2026.  
-•	End of evaluation campaign (deadline for runs submission): April 30, 2026.  
-•	Publication of official results: May 4, 2026.  
-•	Paper submission: May 20, 2026.  
-•	Final date for sending paper acceptance to task participants (Review notification): June 19, 2026.  
-•	Camera ready submissions due: July 1, 2026.  
+•	End of evaluation campaign (deadline for runs submission): **April 30**, 2026.  
+•	Publication of official results: **May 4**, 2026.  
+•	Paper submission: **May 20**, 2026.  
+•	Final date for sending paper acceptance to task participants (Review notification): **June 19**, 2026.  
+•	Camera-ready submissions due: July 1, 2026.  
 •	IberLEF Workshop: September 22, 2026.  
 </div>
 
